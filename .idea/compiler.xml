@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-dao" />
+        <module name="zhuoan-backstage" />
+        <module name="common-biz" />
+        <module name="common-util" />
+        <module name="servers-biz" />
+        <module name="servers-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chess-cards" target="1.7" />
+      <module name="common-biz" target="1.7" />
+      <module name="common-dao" target="1.7" />
+      <module name="common-util" target="1.7" />
+      <module name="servers-biz" target="8" />
+      <module name="servers-web" target="1.7" />
+      <module name="zhuoan-backstage" target="1.7" />
+      <module name="zhuoan-core-layer" target="1.7" />
+      <module name="zhuoan-servers" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servers-web:war">
+    <output-path>$PROJECT_DIR$/zhuoan-servers/servers-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>servers-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="games.zhuoan.servers.ui.war">
+      <element id="artifact" artifact-name="servers-web:war exploded" />
+    </root>
+  </artifact>
+</component>

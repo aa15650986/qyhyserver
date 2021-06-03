@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chess-cards.iml" filepath="$PROJECT_DIR$/chess-cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-core-layer/common-biz/common-biz.iml" filepath="$PROJECT_DIR$/zhuoan-core-layer/common-biz/common-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-core-layer/common-dao/common-dao.iml" filepath="$PROJECT_DIR$/zhuoan-core-layer/common-dao/common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-core-layer/common-util/common-util.iml" filepath="$PROJECT_DIR$/zhuoan-core-layer/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-servers/servers-biz/servers-biz.iml" filepath="$PROJECT_DIR$/zhuoan-servers/servers-biz/servers-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-servers/servers-web/servers-web.iml" filepath="$PROJECT_DIR$/zhuoan-servers/servers-web/servers-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-backstage/zhuoan-backstage.iml" filepath="$PROJECT_DIR$/zhuoan-backstage/zhuoan-backstage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-core-layer/zhuoan-core-layer.iml" filepath="$PROJECT_DIR$/zhuoan-core-layer/zhuoan-core-layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoan-servers/zhuoan-servers.iml" filepath="$PROJECT_DIR$/zhuoan-servers/zhuoan-servers.iml" />
+    </modules>
+  </component>
+</project>
